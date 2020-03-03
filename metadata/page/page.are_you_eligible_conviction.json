@@ -9,7 +9,7 @@
         {
           "_id": "page.are_you_eligible_conviction--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
-          "label": "Yes please",
+          "label": "Yes",
           "value": "auto_value__1"
         },
         {
