@@ -1,0 +1,21 @@
+{
+  "_id": "page.not_out_of_time",
+  "_type": "page.exit",
+  "heading": "You have told us that you applied to appeal within the normal time limit. This means you are not eligible for compensation",
+  "show": {
+    "any": [
+      {
+        "identifier": "auto_name__4",
+        "operator": "is",
+        "value": "auto_value__8"
+      },
+      {
+        "identifier": "auto_name__5",
+        "operator": "is",
+        "value": "auto_value__11"
+      }
+    ],
+    "conditionsType": "any"
+  },
+  "url": "not_out_of_time"
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "page.not_eligible_no_appeal",
+  "_type": "page.exit",
+  "heading": "To get compensation your conviction must have been overturned at an appeal or retrial",
+  "show": {
+    "identifier": "auto_name__2",
+    "operator": "is",
+    "value": "auto_value__4"
+  },
+  "url": "not_eligible_no_appeal"
+}

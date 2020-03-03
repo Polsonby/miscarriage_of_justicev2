@@ -1,0 +1,16 @@
+{
+  "_id": "page.not_eligible--2",
+  "_type": "page.exit",
+  "heading": "To get compensation you must have received a criminal conviction",
+  "show": {
+    "0": {
+      "identifier": "auto_name__1",
+      "operator": "is",
+      "value": "auto_value__2"
+    },
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "url": "not_eligible"
+}

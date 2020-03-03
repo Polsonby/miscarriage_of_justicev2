@@ -1,0 +1,13 @@
+{
+  "_id": "page.other_uploads",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.other_uploads--fileupload.auto_name__56",
+      "_type": "fileupload",
+      "label": "If you have electronic copies of any supporting documents you can upload them here",
+      "name": "auto_name__56"
+    }
+  ],
+  "url": "other_uploads"
+}

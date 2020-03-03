@@ -1,0 +1,27 @@
+{
+  "_id": "page.are_you_eligible_conviction",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.are_you_eligible_conviction--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.are_you_eligible_conviction--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes please",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.are_you_eligible_conviction--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Were you found guilty of a criminal offence?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "are_you_eligible_conviction"
+}
