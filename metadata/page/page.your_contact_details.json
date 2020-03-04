@@ -1,0 +1,67 @@
+{
+  "_id": "page.your_contact_details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.your_contact_details--text.auto_name__55",
+      "_type": "text",
+      "label": "1st line of address",
+      "name": "auto_name__55"
+    },
+    {
+      "_id": "page.your_contact_details--text.auto_name__57",
+      "_type": "text",
+      "label": "2nd line of address (if needed)",
+      "name": "auto_name__57",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.your_contact_details--text.auto_name__58",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__58"
+    },
+    {
+      "_id": "page.your_contact_details--text.auto_name__59",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__59"
+    },
+    {
+      "_id": "page.your_contact_details--text.auto_name__60",
+      "_type": "text",
+      "label": "Country (if not the United Kingdom)",
+      "name": "auto_name__60",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.your_contact_details--text.auto_name__61",
+      "_type": "text",
+      "label": "Phone number",
+      "name": "auto_name__61",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "_id": "page.your_contact_details--email.auto_name__62",
+      "_type": "email",
+      "label": "Email address",
+      "name": "auto_name__62",
+      "validation": {
+        "required": false
+      }
+    }
+  ],
+  "heading": "Your contact details",
+  "show": {
+    "identifier": "auto_name__6",
+    "operator": "is",
+    "value": "for_myself"
+  },
+  "url": "your_contact_details"
+}
