@@ -8,7 +8,11 @@
     "page.are_you_eligible_conviction",
     "page.not_eligible--2",
     "page.are_you_eligible_appeal",
+    "page.within_2_years_of_verdict_overturned",
     "page.not_eligible_no_appeal",
+    "page.exceptional_reason_for_over_2_years",
+    "page.Reason_for_claim_out_of_time_textarea",
+    "page.no_exceptional_reason_out_of_time",
     "page.are_you_eligible_out_of_time",
     "page.out_of_time_crown_court",
     "page.out_of_time_magistrates_court",
@@ -34,7 +38,8 @@
     "page.any_electronic_uploads",
     "page.other_uploads",
     "page.check_answers",
-    "page.confirmation_of_submission"
+    "page.confirmation_of_submission",
+    "page.test_page"
   ],
   "url": "/"
 }
