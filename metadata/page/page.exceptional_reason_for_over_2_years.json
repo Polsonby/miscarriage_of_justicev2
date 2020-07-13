@@ -27,7 +27,7 @@
   "show": {
     "identifier": "auto_name__11",
     "operator": "is",
-    "value": "more_than_2_years_yes"
+    "value": "more_than_2_years_no"
   },
   "url": "exceptional_reason_for_over_2_years"
 }

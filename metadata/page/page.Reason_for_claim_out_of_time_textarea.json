@@ -10,9 +10,18 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__12",
-    "operator": "is",
-    "value": "reason_yes"
+    "all": [
+      {
+        "identifier": "auto_name__12",
+        "operator": "is",
+        "value": "reason_yes"
+      },
+      {
+        "identifier": "auto_name__11",
+        "operator": "is",
+        "value": "more_than_2_years_no"
+      }
+    ]
   },
   "url": "Reason_for_claim_out_of_time_textarea"
 }
