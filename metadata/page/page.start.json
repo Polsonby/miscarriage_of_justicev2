@@ -31,6 +31,7 @@
     "page.was_case_retried",
     "page.retrial_details",
     "page.any_other_details",
+    "page.any_electronic_uploads",
     "page.other_uploads",
     "page.check_answers",
     "page.confirmation_of_submission"

@@ -9,5 +9,10 @@
       "name": "auto_name__56"
     }
   ],
+  "show": {
+    "identifier": "auto_name__10",
+    "operator": "is",
+    "value": "documents_to_submit_yes"
+  },
   "url": "other_uploads"
 }
