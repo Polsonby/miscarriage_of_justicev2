@@ -4,7 +4,7 @@
   "components": [
     {
       "_id": "page.other_uploads--fileupload.auto_name__56",
-      "_type": "fileupload",
+      "_type": "upload",
       "label": "If you have electronic copies of any supporting documents you can upload them here",
       "name": "auto_name__56"
     }
@@ -14,5 +14,8 @@
     "operator": "is",
     "value": "documents_to_submit_yes"
   },
-  "url": "other_uploads"
+  "url": "other_uploads",
+  "steps": [
+    "page.other_uploads-upload-check"
+  ]
 }

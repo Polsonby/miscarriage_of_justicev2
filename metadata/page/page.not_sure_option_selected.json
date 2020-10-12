@@ -4,20 +4,6 @@
   "body": "You can continue with your application but if we find your appeal was lodged \"in time\", you will not be eligible. \"In time\" appeals are considered part of the normal path of justice and are not considered for compensation",
   "heading": "You will only be eligible for compensation if your appeal was made \"out of time\"",
   "lede": "An \"out of time\" appeal is one lodged more than 28 days after the end of a Crown Court trial or 21 days after the end of a Magistrates' Court trial",
-  "show": {
-    "any": [
-      {
-        "identifier": "auto_name__4",
-        "operator": "is",
-        "value": "auto_value__9"
-      },
-      {
-        "identifier": "auto_name__5",
-        "operator": "is",
-        "value": "auto_value__12"
-      }
-    ],
-    "conditionsType": "any"
-  },
+  "show": true,
   "url": "not_sure_option_selected"
 }

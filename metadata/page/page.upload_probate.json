@@ -4,7 +4,7 @@
   "components": [
     {
       "_id": "page.upload_probate--fileupload.auto_name__38",
-      "_type": "fileupload",
+      "_type": "upload",
       "label": "Please choose the grant of probate document on your device",
       "name": "auto_name__38"
     }
@@ -14,5 +14,8 @@
     "operator": "is",
     "value": "auto_value__11"
   },
-  "url": "upload_probate"
+  "url": "upload_probate",
+  "steps": [
+    "page.upload_probate-upload-check"
+  ]
 }
