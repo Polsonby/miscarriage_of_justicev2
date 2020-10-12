@@ -1,0 +1,21 @@
+{
+  "_id": "page.upload_probate",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.upload_probate--fileupload.auto_name__38",
+      "_type": "upload",
+      "label": "Please choose the grant of probate document on your device",
+      "name": "auto_name__38"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__37",
+    "operator": "is",
+    "value": "auto_value__11"
+  },
+  "url": "upload_probate",
+  "steps": [
+    "page.upload_probate-upload-check"
+  ]
+}

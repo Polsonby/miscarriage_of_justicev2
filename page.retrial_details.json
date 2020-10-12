@@ -1,0 +1,25 @@
+{
+  "_id": "page.retrial_details",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.retrial_details--text.auto_name__52",
+      "_type": "text",
+      "label": "What was the name of the court where your retrial was heard?",
+      "name": "auto_name__52"
+    },
+    {
+      "_id": "page.retrial_details--date.auto_name__53",
+      "_type": "date",
+      "label": "What date did the retrial end?",
+      "name": "auto_name__53"
+    }
+  ],
+  "heading": "About your retrial",
+  "show": {
+    "identifier": "auto_name__51",
+    "operator": "is",
+    "value": "auto_value__18"
+  },
+  "url": "retrial_details"
+}

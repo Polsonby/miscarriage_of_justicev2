@@ -1,0 +1,27 @@
+{
+  "_id": "page.Reason_for_claim_out_of_time_textarea",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.Reason_for_claim_out_of_time_textarea--textarea.auto_name__15",
+      "_type": "textarea",
+      "label": "Give the reasons you were unable to submit a claim for compensation earlier",
+      "name": "auto_name__15"
+    }
+  ],
+  "show": {
+    "all": [
+      {
+        "identifier": "auto_name__12",
+        "operator": "is",
+        "value": "reason_yes"
+      },
+      {
+        "identifier": "auto_name__11",
+        "operator": "is",
+        "value": "more_than_2_years_no"
+      }
+    ]
+  },
+  "url": "Reason_for_claim_out_of_time_textarea"
+}

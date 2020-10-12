@@ -1,0 +1,12 @@
+{
+  "_id": "page.no_exceptional_reason_out_of_time",
+  "_type": "page.exit",
+  "body": "**Your solicitor**\r\n\r\nA solicitor can give you legal advice about miscarriage of justice compensation.  You can find solicitors in your area [here](https://solicitors.lawsociety.org.uk/)\r\n\r\n**Law centres**\r\n\r\nLaw centres have solicitors and other advisers who can give you free legal advice. You can find law centres in your area [here](https://www.lawcentres.org.uk/policy-and-media/the-case-for-law-centres)\r\n\r\n**Citizens Advice**\r\n\r\nCitizens Advice offers free advice on a wide range of issues. They can give advice over the phone or in person at a local bureau. You can find Citizens advice in your area [here](https://www.citizensadvice.org.uk/)",
+  "heading": "In order to be eligible for compensation, you must have lodged a claim within 2 years of your conviction being overturned",
+  "show": {
+    "identifier": "auto_name__12",
+    "operator": "is",
+    "value": "reason_no"
+  },
+  "url": "no_exceptional_reason_out_of_time"
+}
