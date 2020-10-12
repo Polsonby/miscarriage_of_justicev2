@@ -1,8 +1,0 @@
-{
-  "_id": "page.confirmation_of_submission",
-  "_type": "page.confirmation",
-  "body": "If you have other supporting documents or information you wish to submit, you can email these to mojas@justice.gov.uk with the applicants first and last name in the subject line.\r\n\r\nIf you wish to post physical documents, send them to\r\nMiscarriages of Justice team\r\nCriminal Justice Group\r\nMinistry of Justice\r\n3rd Floor, Post Point 3.52\r\n102 Petty France\r\nLondon\r\nSW1H 9AJ",
-  "heading": "Your application has been successfully submitted",
-  "lede": "If you have provided an email address, you will receive a copy of the answers you have given. Once the application has been received, you will receive a confirmation together with the reference number of your application",
-  "url": "confirmation_of_submission"
-}

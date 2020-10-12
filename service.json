@@ -1,8 +1,0 @@
-{
-  "_id": "service",
-  "_isa": "@ministryofjustice/fb-components-core=>service",
-  "_type": "config.service",
-  "name": "Miscarriage of justice: claim compensation",
-  "pdfHeading": "Miscarriage of justice: claim compensation",
-  "phase": "none"
-}
