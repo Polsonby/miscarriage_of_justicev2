@@ -2,6 +2,8 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
+  "attachUserSubmission": true,
+  "emailInputNameUser": "auto_name__62",
   "name": "Miscarriage of justice: claim compensation",
   "pdfHeading": "Miscarriage of justice: claim compensation",
   "phase": "none"
