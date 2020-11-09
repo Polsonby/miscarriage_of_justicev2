@@ -33,8 +33,7 @@
     "page.any_electronic_uploads",
     "page.other_uploads",
     "page.check_answers",
-    "page.confirmation_of_submission",
-    "page.test_page"
+    "page.confirmation_of_submission"
   ],
   "url": "/"
 }
