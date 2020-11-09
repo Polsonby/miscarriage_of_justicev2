@@ -1,0 +1,109 @@
+{
+  "_id": "page.representative_details",
+  "_type": "page.form",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--text.auto_name__17",
+      "_type": "text",
+      "label": "Their first name",
+      "name": "auto_name__17"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--text.auto_name__18",
+      "_type": "text",
+      "label": "Their last name",
+      "name": "auto_name__18"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--date.auto_name__19",
+      "_type": "date",
+      "label": "Their date of birth",
+      "name": "auto_name__19"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--text.auto_name__20",
+      "_type": "text",
+      "label": "First line of their address",
+      "name": "auto_name__20"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--text.auto_name__21",
+      "_type": "text",
+      "label": "2nd line of their address",
+      "name": "auto_name__21",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--text.auto_name__22",
+      "_type": "text",
+      "label": "Town or city",
+      "name": "auto_name__22"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--text.auto_name__23",
+      "_type": "text",
+      "label": "Postcode",
+      "name": "auto_name__23"
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--text.auto_name__24",
+      "_type": "text",
+      "label": "Country (if not the United Kingdom)",
+      "name": "auto_name__24",
+      "validation": {
+        "required": false
+      }
+    },
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.representative_details--textarea.auto_name__36",
+      "_type": "textarea",
+      "label": "How do you know this person?",
+      "name": "auto_name__36"
+    }
+  ],
+  "heading": "Who are you applying on behalf of?",
+  "show": {
+    "identifier": "auto_name__6",
+    "operator": "is",
+    "value": "on_behalf_of_someone"
+  },
+  "url": "representative_details"
+}

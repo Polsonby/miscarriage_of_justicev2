@@ -1,0 +1,27 @@
+{
+  "_id": "config.meta",
+  "_type": "config.meta",
+  "items": [
+    {
+      "_id": "config.meta--link",
+      "_type": "link",
+      "active": true,
+      "href": "/Cookies",
+      "text": "Cookies"
+    },
+    {
+      "_id": "config.meta--link--2",
+      "_type": "link",
+      "active": true,
+      "href": "Privacy",
+      "text": "Privacy"
+    },
+    {
+      "_id": "config.meta--link--3",
+      "_type": "link",
+      "active": true,
+      "href": "Accessibility",
+      "text": "Accessibility"
+    }
+  ]
+}

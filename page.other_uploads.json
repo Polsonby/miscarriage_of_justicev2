@@ -1,0 +1,21 @@
+{
+  "_id": "page.other_uploads",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.other_uploads--fileupload.auto_name__56",
+      "_type": "upload",
+      "label": "If you have electronic copies of any supporting documents you can upload them here",
+      "name": "auto_name__56"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__10",
+    "operator": "is",
+    "value": "documents_to_submit_yes"
+  },
+  "url": "other_uploads",
+  "steps": [
+    "page.other_uploads-upload-check"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "_id": "page.is_person_deceased",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.is_person_deceased--radios.auto_name__35",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.is_person_deceased--radios.auto_name__35--radio.auto_value__8",
+          "_type": "radio",
+          "label": "Yes",
+          "value": "auto_value__8"
+        },
+        {
+          "_id": "page.is_person_deceased--radios.auto_name__35--radio.auto_value__9",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__9"
+        }
+      ],
+      "legend": "Are you applying for someone who's died?",
+      "name": "auto_name__35"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__6",
+    "operator": "is",
+    "value": "on_behalf_of_someone"
+  },
+  "url": "is_person_deceased"
+}
