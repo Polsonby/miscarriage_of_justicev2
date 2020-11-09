@@ -1,0 +1,27 @@
+{
+  "_id": "page.are_you_eligible_out_of_time",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.are_you_eligible_out_of_time--radios.auto_name__3",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.are_you_eligible_out_of_time--radios.auto_name__3--radio.auto_value__5",
+          "_type": "radio",
+          "label": "Crown Court",
+          "value": "auto_value__5"
+        },
+        {
+          "_id": "page.are_you_eligible_out_of_time--radios.auto_name__3--radio.auto_value__6",
+          "_type": "radio",
+          "label": "Magistrates' Court",
+          "value": "auto_value__6"
+        }
+      ],
+      "legend": "Was your original criminal case heard in a Crown Court or Magistrates' court?",
+      "name": "auto_name__3"
+    }
+  ],
+  "url": "are_you_eligible_out_of_time"
+}
