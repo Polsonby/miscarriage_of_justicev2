@@ -6,21 +6,21 @@
       "_id": "config.meta--link",
       "_type": "link",
       "active": true,
-      "href": "cookies",
+      "href": "[% url:page.Cookies %]",
       "text": "Cookies"
     },
     {
       "_id": "config.meta--link--2",
       "_type": "link",
       "active": true,
-      "href": "Privacy",
+      "href": "[% url:page.Privacy %]",
       "text": "Privacy"
     },
     {
       "_id": "config.meta--link--3",
       "_type": "link",
       "active": true,
-      "href": "Accessibility",
+      "href": "[% url:page.Accessibility %]",
       "text": "Accessibility"
     }
   ]
