@@ -1,9 +1,10 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "body": "your appeal was successful and it was submitted 28 days or more after your conviction in the Crown Court, or 21 days or more after sentencing for a conviction in a magistrate’s court\r\n\r\nyour conviction was overturned after it was referred to the Court of Appeal by the Criminal Cases Review Commission (CCRC)\r\n\r\nyou’ve been granted a free pardon\r\n\r\nThis online form is available in England and Wales only.\r\n\r\nThere’s a separate scheme for [Scotland](https://www.gov.scot/publications/miscarriage-of-justice-compensation-claim-form/) In Northern Ireland, contact the [Department of Justice](https://www.justice-ni.gov.uk/)",
+  "actionType": "confirm",
+  "body": "- The case reference of your original trial\r\n\r\n- The end date of your original trial\r\n\r\n- The date you applied for permission to appeal\r\n\r\n- The case reference of your appeal\r\n\r\n- The date of any retrial\r\n\r\n- Any supporting evidence that is relevant to your claim that you wish to upload",
   "heading": "Miscarriage of justice: claim compensation",
-  "lede": "You can apply for compensation if your conviction has been overturned (or quashed) by the courts and any of these apply:",
+  "lede": "There is no save and return function within this form.  Please try and complete it in one sitting.  To try and help you, here are a few things you may need to have to hand;",
   "steps": [
     "page.are_you_eligible_conviction",
     "page.not_eligible--2",
