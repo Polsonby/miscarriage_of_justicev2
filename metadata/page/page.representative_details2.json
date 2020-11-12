@@ -76,11 +76,11 @@
       }
     }
   ],
-  "heading": "Your own details",
+  "heading": "Your details",
   "show": {
     "identifier": "auto_name__6",
     "operator": "is",
     "value": "on_behalf_of_someone"
   },
-  "url": "representative_details2"
+  "url": "representative-details2"
 }

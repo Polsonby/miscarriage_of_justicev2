@@ -5,7 +5,8 @@
     {
       "_id": "page.Reason_for_claim_out_of_time_textarea--textarea.auto_name__15",
       "_type": "textarea",
-      "label": "Give the reasons you were unable to submit a claim for compensation earlier",
+      "hint": "Give as much detail as you can",
+      "label": "Why were you unable to claim compensation within 2 years?",
       "name": "auto_name__15"
     }
   ],
@@ -23,5 +24,5 @@
       }
     ]
   },
-  "url": "Reason_for_claim_out_of_time_textarea"
+  "url": "Reason-for-claim-out-of-time"
 }

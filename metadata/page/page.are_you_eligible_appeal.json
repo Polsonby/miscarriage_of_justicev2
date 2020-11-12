@@ -19,9 +19,9 @@
           "value": "auto_value__4"
         }
       ],
-      "legend": "Was the guilty verdict overturned on appeal or at a subsequent retrial?",
+      "legend": "Was the guilty verdict overturned on appeal or at a retrial?",
       "name": "auto_name__2"
     }
   ],
-  "url": "are_you_eligible_appeal"
+  "url": "are-you-eligible-appeal"
 }

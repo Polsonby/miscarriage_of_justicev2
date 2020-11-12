@@ -9,7 +9,7 @@
       "$field": true,
       "_id": "page.your_details--text.auto_name__7",
       "_type": "text",
-      "label": "Your first name(s)",
+      "label": "First name",
       "name": "auto_name__7"
     },
     {
@@ -19,7 +19,7 @@
       "$field": true,
       "_id": "page.your_details--text.auto_name__8",
       "_type": "text",
-      "label": "Your last name",
+      "label": "Last name",
       "name": "auto_name__8"
     },
     {
@@ -31,14 +31,15 @@
       "_type": "date",
       "label": "Date of birth",
       "labelSummary": "Date of birth",
+      "legend": "Date of birth",
       "name": "auto_name__9"
     }
   ],
-  "heading": "Your personal details",
+  "heading": "Your name and date of birth",
   "show": {
     "identifier": "auto_name__6",
     "operator": "is",
     "value": "for_myself"
   },
-  "url": "your_details"
+  "url": "your-details"
 }

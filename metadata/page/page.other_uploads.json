@@ -14,8 +14,8 @@
     "operator": "is",
     "value": "documents_to_submit_yes"
   },
-  "url": "other_uploads",
   "steps": [
     "page.other_uploads-upload-check"
-  ]
+  ],
+  "url": "other-uploads"
 }

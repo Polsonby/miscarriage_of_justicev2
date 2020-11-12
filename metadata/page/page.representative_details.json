@@ -105,5 +105,5 @@
     "operator": "is",
     "value": "on_behalf_of_someone"
   },
-  "url": "representative_details"
+  "url": "representative-details"
 }

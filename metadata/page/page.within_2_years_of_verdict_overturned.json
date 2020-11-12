@@ -19,7 +19,7 @@
           "value": "more_than_2_years_no"
         }
       ],
-      "legend": "Are you making this application for compensation less than 2 years after your conviction was overturned?",
+      "legend": "Are you applying for compensation less than 2 years after your conviction was overturned?",
       "name": "auto_name__11"
     }
   ],
@@ -28,5 +28,5 @@
     "operator": "is",
     "value": "auto_value__3"
   },
-  "url": "within_2_years_of_verdict_overturned"
+  "url": "within-2-years-of-verdict-overturned"
 }

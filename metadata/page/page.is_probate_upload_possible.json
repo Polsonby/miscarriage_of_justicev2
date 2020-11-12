@@ -19,7 +19,7 @@
           "value": "auto_value__12"
         }
       ],
-      "legend": "We need to see the grant of probate. Would you like to upload an electronic copy of the grant of probate?",
+      "legend": "Do you have a grant of probate?",
       "name": "auto_name__37"
     }
   ],
@@ -37,5 +37,5 @@
       }
     ]
   },
-  "url": "is_probate_upload_possible"
+  "url": "is-probate-upload-possible"
 }

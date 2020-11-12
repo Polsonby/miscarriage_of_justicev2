@@ -5,7 +5,8 @@
     {
       "_id": "page.upload_probate--fileupload.auto_name__38",
       "_type": "upload",
-      "label": "Please choose the grant of probate document on your device",
+      "hint": "You can upload your document as a scanned copy or photo of the original",
+      "label": "Upload the grant of probate document ",
       "name": "auto_name__38"
     }
   ],
@@ -14,8 +15,8 @@
     "operator": "is",
     "value": "auto_value__11"
   },
-  "url": "upload_probate",
   "steps": [
     "page.upload_probate-upload-check"
-  ]
+  ],
+  "url": "upload-probate"
 }
