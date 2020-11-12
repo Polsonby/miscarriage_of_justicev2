@@ -1,7 +1,7 @@
 {
   "_id": "page.start",
   "_type": "page.start",
-  "actionType": "confirm",
+  "actionType": "continue",
   "body": "## Before you start\r\n\r\nTo try and help you, here are a few things you may need to have to hand;\r\n\r\n- The case reference and end date of your original trial\r\n\r\n- The date you applied for permission to appeal\r\n\r\n- The case reference and date of any retrial\r\n\r\n- Any documents that you want to include to support your claim",
   "components": [
     {
