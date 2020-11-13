@@ -5,19 +5,29 @@
     {
       "_id": "page.representative_details2--text.auto_name__25",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter your first name"
+        }
+      },
       "label": "First name",
       "name": "auto_name__25"
     },
     {
       "_id": "page.representative_details2--text.auto_name__26",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter your last name"
+        }
+      },
       "label": "Last name",
       "name": "auto_name__26"
     },
     {
       "_id": "page.representative_details2--text.auto_name__27",
       "_type": "text",
-      "label": "Company name (if applicable)",
+      "label": "Company name (optional)",
       "name": "auto_name__27",
       "validation": {
         "required": false
@@ -26,13 +36,18 @@
     {
       "_id": "page.representative_details2--text.auto_name__28",
       "_type": "text",
-      "label": "1st line of your address",
+      "errors": {
+        "required": {
+          "any": "Enter the first line of your address"
+        }
+      },
+      "label": "First line of address",
       "name": "auto_name__28"
     },
     {
       "_id": "page.representative_details2--text.auto_name__29",
       "_type": "text",
-      "label": "2nd line of address",
+      "label": "Second line of address (optional)",
       "name": "auto_name__29",
       "validation": {
         "required": false
@@ -41,12 +56,22 @@
     {
       "_id": "page.representative_details2--text.auto_name__30",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter your town or city"
+        }
+      },
       "label": "Town or city",
       "name": "auto_name__30"
     },
     {
       "_id": "page.representative_details2--text.auto_name__31",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter your postcode"
+        }
+      },
       "hint": "Enter a valid UK postcode",
       "label": "Postcode",
       "name": "auto_name__31",
@@ -66,7 +91,7 @@
     {
       "_id": "page.representative_details2--number.auto_name__33",
       "_type": "number",
-      "label": "Phone number",
+      "label": "Phone number (optional)",
       "name": "auto_name__33",
       "validation": {
         "required": false
@@ -75,6 +100,11 @@
     {
       "_id": "page.representative_details2--email.auto_name__34",
       "_type": "email",
+      "errors": {
+        "format": {
+          "any": "Enter your email address"
+        }
+      },
       "label": "Email address",
       "name": "email",
       "validation": {
