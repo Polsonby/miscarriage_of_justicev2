@@ -2,5 +2,5 @@
   "_id": "page.upload_probate-upload-check",
   "_type": "page.uploadCheck",
   "heading": "Check your grant of probate upload",
-  "url": "/probate-upload-check"
+  "url": "/check-grant-of-probate-upload"
 }

@@ -1,5 +1,5 @@
 {
   "_id": "page.other_uploads-upload-check",
   "_type": "page.uploadCheck",
-  "url": "check-uploads"
+  "url": "/check-supporting-document-uploads"
 }

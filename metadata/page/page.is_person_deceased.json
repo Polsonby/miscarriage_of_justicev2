@@ -28,5 +28,5 @@
     "operator": "is",
     "value": "someone-else"
   },
-  "url": "is-person-deceased"
+  "url": "has-person-died"
 }
