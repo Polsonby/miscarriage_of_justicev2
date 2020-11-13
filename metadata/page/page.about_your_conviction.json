@@ -5,6 +5,11 @@
     {
       "_id": "page.about_your_conviction--textarea.auto_name__39",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "any": "Enter details about what offences you were convicted of"
+        }
+      },
       "hint": "We are only interested in offences you were found guilty of where the verdict was overturned or quashed",
       "label": "What offence(s) were you convicted of?",
       "name": "offences_convicted"
@@ -12,18 +17,33 @@
     {
       "_id": "page.about_your_conviction--text.auto_name__40",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the name of the court where the original trial took place"
+        }
+      },
       "label": "Name of the court where the original trial took place",
       "name": "court_name_original_trial"
     },
     {
       "_id": "page.about_your_conviction--text.auto_name__41",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter how long the sentence was"
+        }
+      },
       "label": "What was the sentence?",
       "name": "sentence_length"
     },
     {
       "_id": "page.about_your_conviction--radios.auto_name__42",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you know the case reference for the original trial"
+        }
+      },
       "items": [
         {
           "_id": "page.about_your_conviction--radios.auto_name__42--radio.auto_value__9",
