@@ -5,13 +5,18 @@
     {
       "_id": "page.your_contact_details--text.auto_name__55",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the first line of your address"
+        }
+      },
       "label": "First line of address",
       "name": "first_line_address"
     },
     {
       "_id": "page.your_contact_details--text.auto_name__57",
       "_type": "text",
-      "label": "Second line of address (if needed)",
+      "label": "Second line of address (optional)",
       "name": "second_line_address",
       "validation": {
         "required": false
@@ -20,12 +25,22 @@
     {
       "_id": "page.your_contact_details--text.auto_name__58",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter your town or city"
+        }
+      },
       "label": "Town or city",
       "name": "town_city"
     },
     {
       "_id": "page.your_contact_details--text.auto_name__59",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter your postcode"
+        }
+      },
       "hint": "Enter a valid UK postcode\r\n\r\n",
       "label": "Postcode",
       "name": "postcode",
@@ -45,7 +60,7 @@
     {
       "_id": "page.your_contact_details--text.auto_name__61",
       "_type": "text",
-      "label": "Phone number",
+      "label": "Phone number (optional)",
       "name": "phone_number",
       "validation": {
         "required": false
@@ -54,6 +69,11 @@
     {
       "_id": "page.your_contact_details--email.auto_name__62",
       "_type": "email",
+      "errors": {
+        "format": {
+          "any": "Enter an email address"
+        }
+      },
       "label": "Email address",
       "name": "email_address",
       "validation": {
