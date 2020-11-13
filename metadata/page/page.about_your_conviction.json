@@ -5,21 +5,21 @@
     {
       "_id": "page.about_your_conviction--textarea.auto_name__39",
       "_type": "textarea",
-      "hint": "We are only interested in offences you were found guilty of where the verdict was subsequently overturned or quashed",
+      "hint": "We are only interested in offences you were found guilty of where the verdict was overturned or quashed",
       "label": "What offence(s) were you convicted of?",
-      "name": "auto_name__39"
+      "name": "offences_convicted"
     },
     {
       "_id": "page.about_your_conviction--text.auto_name__40",
       "_type": "text",
-      "label": "What was the name of the court where the original trial took place?",
-      "name": "auto_name__40"
+      "label": "Name of the court where the original trial took place",
+      "name": "court_name_original_trial"
     },
     {
       "_id": "page.about_your_conviction--text.auto_name__41",
       "_type": "text",
       "label": "What was the sentence?",
-      "name": "auto_name__41"
+      "name": "sentence_length"
     },
     {
       "_id": "page.about_your_conviction--radios.auto_name__42",
@@ -29,17 +29,17 @@
           "_id": "page.about_your_conviction--radios.auto_name__42--radio.auto_value__9",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__9"
+          "value": "yes"
         },
         {
           "_id": "page.about_your_conviction--radios.auto_name__42--radio.auto_value__13",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__13"
+          "value": "no"
         }
       ],
       "legend": "Do you know the case reference for the original trial?",
-      "name": "auto_name__42"
+      "name": "case_reference"
     }
   ],
   "heading": "About the original conviction(s)",

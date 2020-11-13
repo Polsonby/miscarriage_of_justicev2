@@ -10,9 +10,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__42",
+    "identifier": "case_reference",
     "operator": "is",
-    "value": "auto_value__13"
+    "value": "no"
   },
   "url": "original-case-end-date"
 }
