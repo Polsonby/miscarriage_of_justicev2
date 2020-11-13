@@ -5,8 +5,8 @@
     {
       "_id": "page.original_case_reference--text.auto_name__43",
       "_type": "text",
-      "label": "Please provide the case reference for the original trial",
-      "name": "auto_name__43"
+      "label": "Case reference for the original trial",
+      "name": "case_reference_original_trial"
     }
   ],
   "show": {

@@ -6,7 +6,8 @@
       "_id": "page.original_case_end_date--date.auto_name__44",
       "_type": "date",
       "label": "When did the original trial end?",
-      "name": "auto_name__44"
+      "legend": "Date the original trial ended",
+      "name": "original_trial_end_date"
     }
   ],
   "show": {
