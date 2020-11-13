@@ -7,21 +7,21 @@
       "_type": "link",
       "active": true,
       "href": "[% url:page.Cookies %]",
-      "text": "Cookies"
+      "text": "/cookies"
     },
     {
       "_id": "config.meta--link--2",
       "_type": "link",
       "active": true,
       "href": "[% url:page.Privacy %]",
-      "text": "Privacy"
+      "text": "/privacy"
     },
     {
       "_id": "config.meta--link--3",
       "_type": "link",
       "active": true,
       "href": "[% url:page.Accessibility %]",
-      "text": "Accessibility"
+      "text": "/accessibility"
     }
   ]
 }
