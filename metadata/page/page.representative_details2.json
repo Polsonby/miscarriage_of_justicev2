@@ -76,7 +76,7 @@
       "_id": "page.representative_details2--email.auto_name__34",
       "_type": "email",
       "label": "Email address",
-      "name": "auto_name__34",
+      "name": "email",
       "validation": {
         "required": false
       }
@@ -88,5 +88,5 @@
     "operator": "is",
     "value": "on_behalf_of_someone"
   },
-  "url": "representative-details2"
+  "url": "representative-details-2"
 }

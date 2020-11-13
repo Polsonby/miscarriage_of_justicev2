@@ -2,16 +2,9 @@
   "_id": "page.start",
   "_type": "page.start",
   "actionType": "continue",
-  "body": "## Before you start\r\n\r\nTo try and help you, here are a few things you may need to have to hand;\r\n\r\n- The case reference and end date of your original trial\r\n\r\n- The date you applied for permission to appeal\r\n\r\n- The case reference and date of any retrial\r\n\r\n- Any documents that you want to include to support your claim",
-  "components": [
-    {
-      "_id": "page.start--content",
-      "_type": "content",
-      "html": "This form should take no longer than 10 minutes to complete."
-    }
-  ],
+  "body": "## Before you start\r\n\r\nMake sure you have:\r\n\r\n- the case reference and end date of your original trial\r\n- the date you applied for permission to appeal\r\n- the case reference and date of any retrial\r\n- any documents that you want to include to support your claim\r\n\r\nIt usually takes about 10 minutes.",
   "heading": "Claim compensation for a miscarriage of justice",
-  "lede": "  Use this online form to apply for compensation for a miscarriage of justice. ",
+  "lede": "You can only apply for compensation if you have a criminal conviction.  ",
   "steps": [
     "page.are_you_eligible_conviction",
     "page.not_eligible--2",

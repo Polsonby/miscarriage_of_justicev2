@@ -1,6 +1,8 @@
 {
   "_id": "page.check_answers",
   "_type": "page.summary",
+  "actionType": "custom-5",
+  "sendBody": "By sending your application you agree that the information is correct and complete as far as you know.",
   "sendHeading": "Declaration",
   "url": "check-answers"
 }
