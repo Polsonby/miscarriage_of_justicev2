@@ -7,13 +7,13 @@
       "_type": "upload",
       "hint": "You can upload your document as a scanned copy or photo of the original",
       "label": "Upload the grant of probate document ",
-      "name": "auto_name__38"
+      "name": "grant_of_probate_upload"
     }
   ],
   "show": {
-    "identifier": "auto_name__37",
+    "identifier": "grant_of_probate",
     "operator": "is",
-    "value": "auto_value__11"
+    "value": "yes"
   },
   "steps": [
     "page.upload_probate-upload-check"
