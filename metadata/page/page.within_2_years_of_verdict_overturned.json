@@ -5,6 +5,11 @@
     {
       "_id": "page.within_2_years_of_verdict_overturned--radios.auto_name__11",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you're applying for compensation more than 2 years after your conviction was overturned"
+        }
+      },
       "items": [
         {
           "_id": "page.within_2_years_of_verdict_overturned--radios.auto_name__11--radio.auto_value__18",

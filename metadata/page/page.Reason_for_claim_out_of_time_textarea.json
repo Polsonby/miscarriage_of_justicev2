@@ -5,6 +5,11 @@
     {
       "_id": "page.Reason_for_claim_out_of_time_textarea--textarea.auto_name__15",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "any": "Enter details about why you were unable to claim compensation within 2 years"
+        }
+      },
       "hint": "Give as much detail as you can",
       "label": "Why were you unable to claim compensation within 2 years?",
       "name": "compensation_not_claimed_reason"

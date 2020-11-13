@@ -5,6 +5,11 @@
     {
       "_id": "page.exceptional_reason_for_over_2_years--radios.auto_name__12",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if there's a reason why you were unable to claim compensation within 2 years"
+        }
+      },
       "hint": "To be eligible you must submit a claim within 2 years of the conviction being overturned unless there are good reasons why this was not possible",
       "items": [
         {
