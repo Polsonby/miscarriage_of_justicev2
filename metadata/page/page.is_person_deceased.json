@@ -24,9 +24,9 @@
     }
   ],
   "show": {
-    "identifier": "auto_name__6",
+    "identifier": "applying_yourself",
     "operator": "is",
-    "value": "on_behalf_of_someone"
+    "value": "someone-else"
   },
   "url": "is-person-deceased"
 }

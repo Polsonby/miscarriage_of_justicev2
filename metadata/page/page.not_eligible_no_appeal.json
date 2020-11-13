@@ -5,9 +5,9 @@
   "heading": "Your conviction must have been overturned at an appeal or retrial to get compensation",
   "lede": "You can get help and advice if you don't know your legal rights.",
   "show": {
-    "identifier": "auto_name__2",
+    "identifier": "verdict_overturned",
     "operator": "is",
-    "value": "auto_value__4"
+    "value": "no"
   },
   "url": "not-eligible-no-appeal"
 }

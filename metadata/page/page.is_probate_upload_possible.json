@@ -26,9 +26,9 @@
   "show": {
     "all": [
       {
-        "identifier": "auto_name__6",
+        "identifier": "applying_yourself",
         "operator": "is",
-        "value": "on_behalf_of_someone"
+        "value": "someone-else"
       },
       {
         "identifier": "auto_name__35",

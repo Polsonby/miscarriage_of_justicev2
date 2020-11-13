@@ -6,13 +6,13 @@
   "lede": "You can get help and advice if you don't know your legal rights.",
   "show": {
     "0": {
-      "identifier": "auto_name__1",
+      "identifier": "criminal_offence",
       "operator": "is",
-      "value": "auto_value__2"
+      "value": "no"
     },
-    "identifier": "auto_name__1",
+    "identifier": "criminal_offence",
     "operator": "is",
-    "value": "auto_value__2"
+    "value": "no"
   },
   "url": "not-eligible"
 }

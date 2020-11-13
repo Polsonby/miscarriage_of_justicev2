@@ -7,20 +7,20 @@
       "_type": "textarea",
       "hint": "Give as much detail as you can",
       "label": "Why were you unable to claim compensation within 2 years?",
-      "name": "auto_name__15"
+      "name": "compensation_not_claimed_reason"
     }
   ],
   "show": {
     "all": [
       {
-        "identifier": "auto_name__12",
+        "identifier": "more_than_two_years_reason",
         "operator": "is",
-        "value": "reason_yes"
+        "value": "yes"
       },
       {
-        "identifier": "auto_name__11",
+        "identifier": "more_than_two_years",
         "operator": "is",
-        "value": "more_than_2_years_no"
+        "value": "no"
       }
     ]
   },

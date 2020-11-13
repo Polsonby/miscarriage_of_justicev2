@@ -10,17 +10,17 @@
           "_id": "page.are_you_eligible_appeal--radios.auto_name__2--radio.auto_value__3",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__3"
+          "value": "yes"
         },
         {
           "_id": "page.are_you_eligible_appeal--radios.auto_name__2--radio.auto_value__4",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__4"
+          "value": "no"
         }
       ],
       "legend": "Was the guilty verdict overturned on appeal or at a retrial?",
-      "name": "auto_name__2"
+      "name": "verdict_overturned"
     }
   ],
   "url": "are-you-eligible-appeal"

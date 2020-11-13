@@ -10,17 +10,17 @@
           "_id": "page.are_you_eligible_conviction--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__1"
+          "value": "yes"
         },
         {
           "_id": "page.are_you_eligible_conviction--radios.auto_name__1--radio.auto_value__2",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__2"
+          "value": "no"
         }
       ],
       "legend": "Were you found guilty of a criminal offence?",
-      "name": "auto_name__1"
+      "name": "criminal_offence"
     }
   ],
   "url": "are-you-eligible-conviction"
