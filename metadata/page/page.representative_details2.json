@@ -18,7 +18,10 @@
       "_id": "page.representative_details2--text.auto_name__27",
       "_type": "text",
       "label": "Company name (if applicable)",
-      "name": "auto_name__27"
+      "name": "auto_name__27",
+      "validation": {
+        "required": false
+      }
     },
     {
       "_id": "page.representative_details2--text.auto_name__28",
@@ -55,7 +58,10 @@
       "_id": "page.representative_details2--text.auto_name__32",
       "_type": "text",
       "label": "Country (If not the United Kingdom)",
-      "name": "auto_name__32"
+      "name": "auto_name__32",
+      "validation": {
+        "required": false
+      }
     },
     {
       "_id": "page.representative_details2--number.auto_name__33",
