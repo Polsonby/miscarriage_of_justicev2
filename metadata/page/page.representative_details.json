@@ -100,7 +100,7 @@
       "name": "know_person"
     }
   ],
-  "heading": "Details of the person you're applying on behalf of",
+  "heading": "Details of the person you're applying for",
   "show": {
     "identifier": "applying_yourself",
     "operator": "is",
