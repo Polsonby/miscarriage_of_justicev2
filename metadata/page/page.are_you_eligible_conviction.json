@@ -5,6 +5,11 @@
     {
       "_id": "page.are_you_eligible_conviction--radios.auto_name__1",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you were found guilty of a criminal offence"
+        }
+      },
       "items": [
         {
           "_id": "page.are_you_eligible_conviction--radios.auto_name__1--radio.auto_value__1",
