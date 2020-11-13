@@ -5,7 +5,10 @@
     {
       "_id": "page.other_uploads--fileupload.auto_name__56",
       "_type": "upload",
-      "label": "If you have electronic copies of any supporting documents you can upload them here",
+      "hint": "You can upload your documents as scanned copies or photos of the originals",
+      "label": "Upload documents",
+      "maxFiles": 10,
+      "minFiles": 1,
       "name": "auto_name__56"
     }
   ],
@@ -15,7 +18,8 @@
     "value": "yes"
   },
   "steps": [
-    "page.other_uploads-upload-check"
+    "page.other_uploads-upload-check",
+    "page.other-uploads-summary"
   ],
   "url": "other-uploads"
 }
