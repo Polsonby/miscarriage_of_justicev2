@@ -5,6 +5,11 @@
     {
       "_id": "page.original_case_end_date--date.auto_name__44",
       "_type": "date",
+      "errors": {
+        "required": {
+          "any": "Enter the date when the original trial ended"
+        }
+      },
       "label": "When did the original trial end?",
       "legend": "Date the original trial ended",
       "name": "original_trial_end_date"
