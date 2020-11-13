@@ -5,8 +5,8 @@
     {
       "_id": "page.any_other_details--textarea.auto_name__54",
       "_type": "textarea",
-      "label": "Provide any other details you think might be relevant or in support of your application",
-      "name": "auto_name__54"
+      "label": "Any other information that might support of your application",
+      "name": "other_supporting_information"
     }
   ],
   "url": "any-other-details"

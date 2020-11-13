@@ -6,13 +6,14 @@
       "_id": "page.retrial_details--text.auto_name__52",
       "_type": "text",
       "label": "What was the name of the court where your retrial was heard?",
-      "name": "auto_name__52"
+      "name": "retrial_court_name"
     },
     {
       "_id": "page.retrial_details--date.auto_name__53",
       "_type": "date",
       "label": "What date did the retrial end?",
-      "name": "auto_name__53"
+      "legend": "What date did the retrial end?",
+      "name": "retrial_end_date"
     }
   ],
   "heading": "About your retrial",
