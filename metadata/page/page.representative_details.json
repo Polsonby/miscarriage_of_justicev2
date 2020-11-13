@@ -9,8 +9,8 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__17",
       "_type": "text",
-      "label": "Their first name",
-      "name": "auto_name__17"
+      "label": "First name",
+      "name": "person_first_name"
     },
     {
       "$component": true,
@@ -19,8 +19,8 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__18",
       "_type": "text",
-      "label": "Their last name",
-      "name": "auto_name__18"
+      "label": "Last name",
+      "name": "person_last_name"
     },
     {
       "$component": true,
@@ -30,7 +30,8 @@
       "_id": "page.representative_details--date.auto_name__19",
       "_type": "date",
       "label": "Their date of birth",
-      "name": "auto_name__19"
+      "legend": "Date of birth",
+      "name": "person_date_of_birth"
     },
     {
       "$component": true,
@@ -39,8 +40,8 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__20",
       "_type": "text",
-      "label": "First line of their address",
-      "name": "auto_name__20"
+      "label": "First line of address",
+      "name": "address_first_line"
     },
     {
       "$component": true,
@@ -49,8 +50,8 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__21",
       "_type": "text",
-      "label": "2nd line of their address",
-      "name": "auto_name__21",
+      "label": "Second line of address",
+      "name": "address_second_line",
       "validation": {
         "required": false
       }
@@ -63,7 +64,7 @@
       "_id": "page.representative_details--text.auto_name__22",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__22"
+      "name": "person_town_city"
     },
     {
       "$component": true,
@@ -73,7 +74,7 @@
       "_id": "page.representative_details--text.auto_name__23",
       "_type": "text",
       "label": "Postcode",
-      "name": "auto_name__23"
+      "name": "person_postcode"
     },
     {
       "$component": true,
@@ -83,7 +84,7 @@
       "_id": "page.representative_details--text.auto_name__24",
       "_type": "text",
       "label": "Country (if not the United Kingdom)",
-      "name": "auto_name__24",
+      "name": "person_country",
       "validation": {
         "required": false
       }
@@ -96,10 +97,10 @@
       "_id": "page.representative_details--textarea.auto_name__36",
       "_type": "textarea",
       "label": "How do you know this person?",
-      "name": "auto_name__36"
+      "name": "know_person"
     }
   ],
-  "heading": "Who are you applying on behalf of?",
+  "heading": "Details of the person you're applying on behalf of",
   "show": {
     "identifier": "applying_yourself",
     "operator": "is",

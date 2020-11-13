@@ -6,13 +6,13 @@
       "_id": "page.your_contact_details--text.auto_name__55",
       "_type": "text",
       "label": "1st line of address",
-      "name": "auto_name__55"
+      "name": "first_line_address"
     },
     {
       "_id": "page.your_contact_details--text.auto_name__57",
       "_type": "text",
       "label": "2nd line of address (if needed)",
-      "name": "auto_name__57",
+      "name": "second_line_address",
       "validation": {
         "required": false
       }
@@ -21,14 +21,14 @@
       "_id": "page.your_contact_details--text.auto_name__58",
       "_type": "text",
       "label": "Town or city",
-      "name": "auto_name__58"
+      "name": "town_city"
     },
     {
       "_id": "page.your_contact_details--text.auto_name__59",
       "_type": "text",
       "hint": "Enter a valid UK postcode\r\n\r\n",
       "label": "Postcode",
-      "name": "auto_name__59",
+      "name": "postcode",
       "validation": {
         "pattern": "([Gg][Ii][Rr] 0[Aa]{2})|((([A-Za-z][0-9]{1,2})|(([A-Za-z][A-Ha-hJ-Yj-y][0-9]{1,2})|(([A-Za-z][0-9][A-Za-z])|([A-Za-z][A-Ha-hJ-Yj-y][0-9][A-Za-z]?))))\\s?[0-9][A-Za-z]{2})"
       }
@@ -37,7 +37,7 @@
       "_id": "page.your_contact_details--text.auto_name__60",
       "_type": "text",
       "label": "Country (if not the United Kingdom)",
-      "name": "auto_name__60",
+      "name": "country",
       "validation": {
         "required": false
       }
@@ -46,7 +46,7 @@
       "_id": "page.your_contact_details--text.auto_name__61",
       "_type": "text",
       "label": "Phone number",
-      "name": "auto_name__61",
+      "name": "phone_number",
       "validation": {
         "required": false
       }
@@ -55,7 +55,7 @@
       "_id": "page.your_contact_details--email.auto_name__62",
       "_type": "email",
       "label": "Email address",
-      "name": "auto_name__62",
+      "name": "email_address",
       "validation": {
         "required": false
       }
