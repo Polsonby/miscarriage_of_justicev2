@@ -5,6 +5,11 @@
     {
       "_id": "page.upload_probate--fileupload.auto_name__38",
       "_type": "upload",
+      "errors": {
+        "required": {
+          "any": "Select the grant of probate document"
+        }
+      },
       "hint": "You can upload your document as a scanned copy or photo of the original",
       "label": "Upload the grant of probate document ",
       "name": "grant_of_probate_upload"
