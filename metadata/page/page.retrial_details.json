@@ -17,9 +17,9 @@
   ],
   "heading": "About your retrial",
   "show": {
-    "identifier": "auto_name__51",
+    "identifier": "case_retried",
     "operator": "is",
-    "value": "auto_value__18"
+    "value": "yes"
   },
   "url": "retrial-details"
 }

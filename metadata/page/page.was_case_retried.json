@@ -10,17 +10,17 @@
           "_id": "page.was_case_retried--radios.auto_name__51--radio.auto_value__18",
           "_type": "radio",
           "label": "Yes",
-          "value": "auto_value__18"
+          "value": "yes"
         },
         {
           "_id": "page.was_case_retried--radios.auto_name__51--radio.auto_value__19",
           "_type": "radio",
           "label": "No",
-          "value": "auto_value__19"
+          "value": "no"
         }
       ],
       "legend": "Was your case retried?",
-      "name": "auto_name__51"
+      "name": "case_retried"
     }
   ],
   "url": "was-case-retried"
