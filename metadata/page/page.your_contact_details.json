@@ -5,13 +5,13 @@
     {
       "_id": "page.your_contact_details--text.auto_name__55",
       "_type": "text",
-      "label": "1st line of address",
+      "label": "First line of address",
       "name": "first_line_address"
     },
     {
       "_id": "page.your_contact_details--text.auto_name__57",
       "_type": "text",
-      "label": "2nd line of address (if needed)",
+      "label": "Second line of address (if needed)",
       "name": "second_line_address",
       "validation": {
         "required": false
