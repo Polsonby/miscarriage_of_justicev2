@@ -9,6 +9,11 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__17",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the person's first name"
+        }
+      },
       "label": "First name",
       "name": "person_first_name"
     },
@@ -19,6 +24,11 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__18",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the person's last name"
+        }
+      },
       "label": "Last name",
       "name": "person_last_name"
     },
@@ -29,6 +39,11 @@
       "$field": true,
       "_id": "page.representative_details--date.auto_name__19",
       "_type": "date",
+      "errors": {
+        "required": {
+          "any": "Enter the person's date of birth"
+        }
+      },
       "label": "Their date of birth",
       "legend": "Date of birth",
       "name": "person_date_of_birth"
@@ -40,6 +55,11 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__20",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the first line of the person's address"
+        }
+      },
       "label": "First line of address",
       "name": "address_first_line"
     },
@@ -50,7 +70,7 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__21",
       "_type": "text",
-      "label": "Second line of address",
+      "label": "Second line of address (optional)",
       "name": "address_second_line",
       "validation": {
         "required": false
@@ -63,6 +83,11 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__22",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the person's town or city"
+        }
+      },
       "label": "Town or city",
       "name": "person_town_city"
     },
@@ -73,6 +98,11 @@
       "$field": true,
       "_id": "page.representative_details--text.auto_name__23",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the person's postcode"
+        }
+      },
       "label": "Postcode",
       "name": "person_postcode"
     },
@@ -96,6 +126,11 @@
       "$field": true,
       "_id": "page.representative_details--textarea.auto_name__36",
       "_type": "textarea",
+      "errors": {
+        "required": {
+          "any": "Enter details about how you know this person"
+        }
+      },
       "label": "How do you know this person?",
       "name": "know_person"
     }
