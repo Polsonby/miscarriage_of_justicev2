@@ -9,6 +9,11 @@
       "$field": true,
       "_id": "page.about_your_appeal--date.auto_name__45",
       "_type": "date",
+      "errors": {
+        "required": {
+          "any": "Enter the date when you applied for permission to appeal"
+        }
+      },
       "label": "When did you apply for permission to appeal?",
       "legend": "When did you apply for permission to appeal?",
       "name": "permission_to_appeal_date"
@@ -20,6 +25,11 @@
       "$field": true,
       "_id": "page.about_your_appeal--text.auto_name__46",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the name of the court that heard your appeal"
+        }
+      },
       "label": "What was the name of the court that heard your appeal?",
       "name": "appeal_court_name"
     },
@@ -29,6 +39,11 @@
       "$definition": true,
       "_id": "page.about_your_appeal--radios.auto_name__47",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if your case was referred to the court by the Criminal Cases Review Commission (CCRC)"
+        }
+      },
       "items": [
         {
           "$component": true,
@@ -55,6 +70,11 @@
     {
       "_id": "page.about_your_appeal--radios.auto_name__48",
       "_type": "radios",
+      "errors": {
+        "required": {
+          "any": "Select yes if you know the case reference for your appeal"
+        }
+      },
       "items": [
         {
           "_id": "page.about_your_appeal--radios.auto_name__48--radio.auto_value__16",
