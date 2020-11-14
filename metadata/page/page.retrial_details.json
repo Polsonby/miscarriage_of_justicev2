@@ -5,12 +5,22 @@
     {
       "_id": "page.retrial_details--text.auto_name__52",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the name of the court where your retrial was heard"
+        }
+      },
       "label": "What was the name of the court where your retrial was heard?",
       "name": "retrial_court_name"
     },
     {
       "_id": "page.retrial_details--date.auto_name__53",
       "_type": "date",
+      "errors": {
+        "required": {
+          "any": "Enter the date the retrial ended"
+        }
+      },
       "label": "What date did the retrial end?",
       "legend": "What date did the retrial end?",
       "name": "retrial_end_date"

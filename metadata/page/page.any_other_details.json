@@ -5,7 +5,13 @@
     {
       "_id": "page.any_other_details--textarea.auto_name__54",
       "_type": "textarea",
-      "label": "Any other information that might support of your application",
+      "errors": {
+        "required": {
+          "any": "Enter any other information that might support your application"
+        }
+      },
+      "hint": "Give as much detail as you can",
+      "label": "Is there any other information that might support your application?",
       "name": "other_supporting_information"
     }
   ],
