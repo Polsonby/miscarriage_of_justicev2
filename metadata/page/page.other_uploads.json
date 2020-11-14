@@ -5,6 +5,11 @@
     {
       "_id": "page.other_uploads--fileupload.auto_name__56",
       "_type": "upload",
+      "errors": {
+        "required": {
+          "any": "Select a document"
+        }
+      },
       "hint": "You can upload your documents as scanned copies or photos of the originals",
       "label": "Upload documents",
       "maxFiles": 10,
