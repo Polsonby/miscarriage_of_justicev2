@@ -5,6 +5,11 @@
     {
       "_id": "page.appeal_reference--text.auto_name__50",
       "_type": "text",
+      "errors": {
+        "required": {
+          "any": "Enter the reference number of your appeal"
+        }
+      },
       "label": "What was the reference number of your appeal?",
       "name": "appeal_reference_number"
     }

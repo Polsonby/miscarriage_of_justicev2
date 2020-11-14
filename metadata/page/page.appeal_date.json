@@ -5,6 +5,11 @@
     {
       "_id": "page.appeal_date--date.auto_name__49",
       "_type": "date",
+      "errors": {
+        "required": {
+          "any": "Enter the date when your appeal hearing ended"
+        }
+      },
       "label": "What date did your appeal hearing end?",
       "name": "appeal_hearing_end_date"
     }
