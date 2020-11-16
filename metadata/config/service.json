@@ -3,7 +3,7 @@
   "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
   "attachUserSubmission": true,
-  "emailInputNameUser": "{email_address}",
+  "emailInputNameUser": "email_address",
   "name": "Claim compensation for a miscarriage of justice",
   "pdfHeading": "Claim compensation for a miscarriage of justice",
   "phase": "none"
