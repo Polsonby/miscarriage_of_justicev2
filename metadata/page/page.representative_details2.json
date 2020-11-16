@@ -106,7 +106,7 @@
         }
       },
       "label": "Email address",
-      "name": "email",
+      "name": "email_address",
       "validation": {
         "required": false
       }
