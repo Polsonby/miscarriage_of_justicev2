@@ -16,14 +16,23 @@
     }
   ],
   "show": {
-    "0": {
-      "identifier": "more_than_two_years",
-      "operator": "is",
-      "value": "no"
-    },
-    "identifier": "more_than_two_years",
-    "operator": "is",
-    "value": "yes"
+    "all": [
+      {
+        "0": {
+          "identifier": "more_than_two_years",
+          "operator": "is",
+          "value": "no"
+        },
+        "identifier": "more_than_two_years",
+        "operator": "is",
+        "value": "yes"
+      },
+      {
+        "identifier": "more_than_two_years_reason",
+        "operator": "is",
+        "value": "yes"
+      }
+    ]
   },
   "url": "no-claim-reason"
 }
