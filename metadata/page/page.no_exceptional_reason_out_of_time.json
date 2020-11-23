@@ -5,9 +5,18 @@
   "heading": "You must have made a claim within 2 years of your conviction being overturned to get compensation",
   "lede": "You can get help and advice if you don't know your legal rights.",
   "show": {
-    "identifier": "more_than_two_years_reason",
-    "operator": "is",
-    "value": "no"
+    "all": [
+      {
+        "identifier": "more_than_two_years_reason",
+        "operator": "is",
+        "value": "no"
+      },
+      {
+        "identifier": "more_than_two_years",
+        "operator": "is",
+        "value": "yes"
+      }
+    ]
   },
   "url": "no-claim-out-of-time"
 }
