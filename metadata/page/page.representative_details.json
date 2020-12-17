@@ -3,6 +3,45 @@
   "_type": "page.form",
   "components": [
     {
+      "_id": "page.representative_details--select.auto_name__3",
+      "_type": "select",
+      "hint": "Select an option from the dropdown list",
+      "items": [
+        {
+          "_id": "page.representative_details--select.auto_name__3--option",
+          "_type": "option",
+          "text": "Mr",
+          "value": "Mr"
+        },
+        {
+          "_id": "page.representative_details--select.auto_name__3--option--2",
+          "_type": "option",
+          "text": "Mrs",
+          "value": "Mrs"
+        },
+        {
+          "_id": "page.representative_details--select.auto_name__3--option--3",
+          "_type": "option",
+          "text": "Miss",
+          "value": "Miss"
+        },
+        {
+          "_id": "page.representative_details--select.auto_name__3--option--4",
+          "_type": "option",
+          "text": "Ms",
+          "value": "Ms"
+        },
+        {
+          "_id": "page.representative_details--select.auto_name__3--option--5",
+          "_type": "option",
+          "text": "Mx",
+          "value": "Mx"
+        }
+      ],
+      "label": "Prefix",
+      "name": "auto_name__3"
+    },
+    {
       "$component": true,
       "$control": true,
       "$definition": true,

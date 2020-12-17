@@ -3,6 +3,13 @@
   "_type": "page.form",
   "components": [
     {
+      "_id": "page.about_your_conviction--date.auto_name__2",
+      "_type": "date",
+      "hint": "[% hint.date %]\r\n\r\nWe use this to confirm eligibility for this service",
+      "legend": "What was the date of the conviction?",
+      "name": "auto_name__2"
+    },
+    {
       "_id": "page.about_your_conviction--textarea.auto_name__39",
       "_type": "textarea",
       "errors": {

@@ -3,6 +3,45 @@
   "_type": "page.form",
   "components": [
     {
+      "_id": "page.representative_details2--select.auto_name__4",
+      "_type": "select",
+      "hint": "Select an option from the dropdown list",
+      "items": [
+        {
+          "_id": "page.representative_details2--select.auto_name__4--option",
+          "_type": "option",
+          "text": "Mr",
+          "value": "Mr"
+        },
+        {
+          "_id": "page.representative_details2--select.auto_name__4--option--2",
+          "_type": "option",
+          "text": "Mrs",
+          "value": "Mrs"
+        },
+        {
+          "_id": "page.representative_details2--select.auto_name__4--option--3",
+          "_type": "option",
+          "text": "Miss",
+          "value": "Miss"
+        },
+        {
+          "_id": "page.representative_details2--select.auto_name__4--option--4",
+          "_type": "option",
+          "text": "Ms",
+          "value": "Ms"
+        },
+        {
+          "_id": "page.representative_details2--select.auto_name__4--option--5",
+          "_type": "option",
+          "text": "Mx",
+          "value": "Mx"
+        }
+      ],
+      "label": "Prefix",
+      "name": "auto_name__4"
+    },
+    {
       "_id": "page.representative_details2--text.auto_name__25",
       "_type": "text",
       "errors": {
