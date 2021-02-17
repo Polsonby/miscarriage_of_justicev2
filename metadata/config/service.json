@@ -6,5 +6,6 @@
   "emailInputNameUser": "email_address",
   "name": "Claim compensation for a miscarriage of justice",
   "pdfHeading": "Claim compensation for a miscarriage of justice",
-  "phase": "none"
+  "phase": "none",
+  "serviceEmailAddress": "mojas@justice.gov.uk"
 }
