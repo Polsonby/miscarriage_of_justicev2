@@ -33,6 +33,12 @@
       "name": "court_name_original_trial"
     },
     {
+      "_id": "page.about_your_conviction--date.auto_name__5",
+      "_type": "date",
+      "legend": "What was the date of sentence? ",
+      "name": "auto_name__5"
+    },
+    {
       "_id": "page.about_your_conviction--text.auto_name__41",
       "_type": "text",
       "errors": {
