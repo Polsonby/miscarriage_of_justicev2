@@ -30,6 +30,7 @@
     "page.appeal_reference",
     "page.was_case_retried",
     "page.retrial_details",
+    "page.prior-claim",
     "page.any_other_details",
     "page.any_electronic_uploads",
     "page.other_uploads",

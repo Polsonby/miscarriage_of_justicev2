@@ -1,0 +1,34 @@
+{
+  "_id": "page.prior-claims",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.prior-claims--radios.auto_name__6",
+      "_type": "radios",
+      "hint": "Such as from another government department or agency",
+      "items": [
+        {
+          "_id": "page.prior-claims--radios.auto_name__6--radio.auto_value__1",
+          "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.prior-claims--radios.auto_name__6--radio.auto_value__1--textarea.auto_name__7",
+            "_type": "textarea",
+            "label": "Give details",
+            "name": "auto_name__7"
+          },
+          "label": "Yes",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.prior-claims--radios.auto_name__6--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Have you made any prior claims relating to this miscarriage? ",
+      "name": "auto_name__6"
+    }
+  ],
+  "url": "prior-claims"
+}
