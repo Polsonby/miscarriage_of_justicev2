@@ -22,6 +22,12 @@
       "active": true,
       "href": "[% url:page.Accessibility %]",
       "text": "Accessibility"
+    },
+    {
+      "_id": "config.meta--link--4",
+      "_type": "link",
+      "href": "/guidance",
+      "text": "Guidance"
     }
   ]
 }
